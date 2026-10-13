@@ -1,0 +1,16 @@
+# --- Proteus / capturas temporales ---------------------------------------
+~$*
+*.pdsprj.lck
+"Last Loaded"*
+*.Proteus
+
+# --- IDE / editores ------------------------------------------------------
+.vscode/
+.idea/
+*.swp
+.arduino/
+
+# --- Sistema --------------------------------------------------------------
+Thumbs.db
+Desktop.ini
+.DS_Store
